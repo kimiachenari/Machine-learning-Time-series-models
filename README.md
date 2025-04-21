@@ -1,7 +1,7 @@
 # Machine-learning-Time-series-models
 
 
-# 🌍 ARIMA Forecasting for SDG Index Score 🚀
+# 🌍 ARIMA  Forecasting for SDG Index Score 🚀
 
 Welcome to the **ARIMA Forecasting** project, where we leverage **time series analysis** to forecast the **Sustainable Development Goals (SDG) Index Scores** for **all countries around the world**. This project uses the powerful ARIMA (AutoRegressive Integrated Moving Average) model to analyze trends, patterns, and predict the future trajectory of SDG scores across different countries. Ready to dive into the world of data-driven sustainability? Let's get started! 🌱
 ![image](https://github.com/user-attachments/assets/c6a234c8-a109-49ba-ba91-de0718f929f1)
@@ -30,7 +30,7 @@ pip install numpy pandas matplotlib seaborn statsmodels pmdarima sklearn
 
 ## 📊 Dataset
 
-This project utilizes SDG Index Score data, specifically for **OECD countries**. The data spans multiple years and serves as the foundation for our forecasts. It is contained within the CSV file **`fullsdg_final2023_witoutmissing.csv`**.
+This project utilizes SDG Index Score data. The data spans multiple years and serves as the foundation for our forecasts. It is contained within the CSV file **`fullsdg_final2023_witoutmissing.csv`**.
 
 ### Data Columns:
 
